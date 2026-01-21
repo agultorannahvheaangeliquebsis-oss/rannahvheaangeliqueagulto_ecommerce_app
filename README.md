@@ -1,6 +1,6 @@
 
 # Frameworks Used
-- Python 3
+- Python 
 - Flask – Web framework
 - Flask-SQLAlchemy – ORM for database handling
 - Marshmallow – Object serialization/deserialization
